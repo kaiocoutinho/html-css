@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+/*   O QUE É "ID" NO HTML VIRA # NO CSS  
+
+     O QUE É CLASS NO HMTL VIRA . NO CSS
+
+*/
+
+
+body{
+    background-color: #61230B;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+main{
+    background-color:#B34114 ; 
+    border-radius: 12px;
+    padding: 15px;
+    width: 550px;
+    text-align: center;
+}
+h1{
+    color:#FF5C1B ;
+}
+
+h1#principal{
+    text-align: center;
+    background-color:#DB4F18 ;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+h2{
+    color:white;
+    
+}
+
+.intermediario{
+
+color: blue;
+}
+
+.basico{
+   color: red;
+}
+.avancado{
+    color: blueviolet;
+}

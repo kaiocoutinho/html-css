@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    /* 
+    MEDIDAS ABSOLUTAS:
+    CM (CENTIMETRO), MM(MILIMETRO), IN(POLEGADAS),PX(PIXEL),PT(PONTO),PC(PAICA)
+    
+    
+    MEDIDAS RELATIVAS:
+    EM(MEDIDA RELATIVA AO TAMANHO ATUAL DA FONTE), EX(MEDIDA RELATIVA A ALTURA X DE UMA FONTE), REM(RELATIVO A FONTE QUE ESTA SELECIONADA NO BODY),VH(LARGURA DA TELA QUE ESTA SENDO USADA),VW(ALTURA DA TELA), %
+    
+
+    MEDIDAS RECOMENDADAS: PX E EM.
+
+    GERALMENTE 16PX É IGUAL A 1EM
+
+    16PX == 1EM
+    */
+    font-size: 1em ;
+    font-weight:lighter ;
+    font-style: italic;
+}
+h1{
+    /* shorthand font
+    
+    font-style -> font-height -> font-size -> font-family
+    */
+    font: italic bolder 3em Arial, sans-serif ;
+}
+
+

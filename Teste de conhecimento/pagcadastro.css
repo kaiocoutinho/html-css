@@ -1,0 +1,13 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*font-family: 'Unna', serif;*/
+
+
+body{
+  background-image: linear-gradient(to right,#406CFF,#5C76CC);
+}
+.navb{
+    display: flex;
+    margin: 0;
+    
+}

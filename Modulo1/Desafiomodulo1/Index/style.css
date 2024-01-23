@@ -1,0 +1,30 @@
+body{
+    background-color: darkslategrey;
+    text-align:center ;
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+p{
+    font-size: 15pt;
+    color: antiquewhite;
+}
+section{
+    text-align: center;
+    margin-top: 10px;
+}
+video{
+    width: 200px;
+    padding: 15px;
+    background-color: antiquewhite;
+    border-radius: 12px;
+
+}
+iframe{
+    border-radius: 12px;
+    margin-bottom: 0px;
+}
+img{
+   margin-top: 10px;
+}

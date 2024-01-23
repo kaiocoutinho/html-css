@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste</title>
+    <style>
+       @font-face {
+        font-family:'Fonte';
+        src: url('Splash.ttf') format('truetype');
+       }
+       body{
+            text-align: center;
+        }
+        div{
+            font-family:'Fonte';
+            display: inline-block;
+            background-color: black;
+            height: 100px;
+            width: 100px;
+            color: aliceblue;         
+        }
+        div#branco:hover{
+            background-color: aliceblue;
+            transition: 0.5s;
+            color: black;
+        }
+        div#azul:hover{
+            background-color: blue;
+            transition: 0.5s;
+        }
+        div#vermelho:hover{
+        background-color: red;
+        transition: 0.5s;
+
+        }
+    </style>
+</head>
+<body>
+    <div id="branco">BRANCO</div>
+    <div id="azul">AZUL</div>
+    <div id="vermelho">VERMELHO</div>
+</body>
+</html>

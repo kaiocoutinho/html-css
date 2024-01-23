@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes externas</title>
+    <style>
+      @font-face {
+        font-family:'Terror' ; /* NOME NO QUAL EU QUERO CHAMAR A FONTE   */
+        src: url('Splash Black.ttf') format('truetype'), url('Splash.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        /* CONFIGURAÇAO NA CSS PARA COLOCAR UMA FONTE EXTERNA AQUI   */
+
+/*    
+TIPOS DE FORMAT()
+-OPENTYPE (OTF)
+-TRUETYPE(TTF)
+-EMBEDDED-OPENTYPE
+-TRUETYPE-AAT
+-SVG
+
+
+*/
+
+      }
+      body{
+        font-family: 'Terror', Helvetica, sans-serif;
+        font-weight: normal;
+      }
+      h1{
+        font-family: 'Terror';
+        font-size: 3em;
+        font-weight: normal;
+      }
+    </style>
+</head>
+<body>
+    <h1>TITULO</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam debitis, ullam cumque eaque hic minima voluptas iusto soluta labore accusantium vitae mollitia vero dolores excepturi! Ea hic iste pariatur aut?</p>
+</body>
+</html>
