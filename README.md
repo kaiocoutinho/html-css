@@ -2,12 +2,12 @@
  Curso de HMTL5 e CSS3.
  
  <h1>Site Android</h1>
- <a href="https://kaiocoutinho.github.io/html-css/Site-android/index/android.html">Executar exercício</a>
+ <a href="https://kaiocoutinho.github.io/html-css/Site-android/index/android.html" target="_blank">Executar exercício</a>
  <hr>
  <h1>Exercícios da propiedade background</h1>
  <ul>
     <li>
-        <a href="https://kaiocoutinho.github.io/html-css/modulo-3/execicio022/fundo01.html">Executar exercício 1</a>
+        <a href="https://kaiocoutinho.github.io/html-css/modulo-3/execicio022/fundo01.html" target="_blank">Executar exercício 1</a>
     </li>
     <li>
         <a href="https://kaiocoutinho.github.io/html-css/modulo-3/execicio022/fundo002.html" target="_blank">Executar exercício 2</a>
