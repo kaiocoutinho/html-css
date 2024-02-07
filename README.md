@@ -4,7 +4,6 @@
  <h1>Site Android</h1>
  <a href="https://kaiocoutinho.github.io/html-css/Site-android/index/android.html">Executar exercício</a>
  <hr>
- h1
  <h1>Exercícios da propiedade background</h1>
  <ul>
     <li>
