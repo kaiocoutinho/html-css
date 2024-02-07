@@ -21,6 +21,9 @@
     <li>  
         <a href="https://kaiocoutinho.github.io/html-css/modulo-3/execicio022/fundo005.html">Executar exercício 5</a>
     </li>
+    <li>
+    <a href="https://kaiocoutinho.github.io/html-css/modulo-3/execicio022/fundo006.html">Executar exercício 6 </a>
+    </li>
    
 </ul>   
     
